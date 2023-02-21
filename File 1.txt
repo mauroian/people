@@ -1,0 +1,5 @@
+.NET Core
+.NET Framework
+.NET Standard
+.NET 6
+.NET MAUI  
