@@ -3,6 +3,6 @@
 @tagHelperPrefix
 @using   ANN 1
 @model
-@inherits
+@inherits ANN 2
 @inject
 @namespace
